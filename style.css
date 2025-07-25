@@ -1,0 +1,10 @@
+*{
+    background-color: azure;
+}
+#color{
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+    height: 50px;
+}
